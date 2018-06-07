@@ -32,5 +32,7 @@ class GardenGnome
   
   gnome1 = GardenGnome.new
   
-  puts gnome1.hat_color 
+  gnome1.name = "Walter the Worst" 
+  
+  puts gnome1.name 
   
