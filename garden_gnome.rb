@@ -32,5 +32,5 @@ class GardenGnome
   
   gnome1 = GardenGnome.new
   
-  puts gnome1
+  puts gnome1.hat_color 
   
