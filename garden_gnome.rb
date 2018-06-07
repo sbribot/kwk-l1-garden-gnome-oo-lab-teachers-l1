@@ -34,5 +34,5 @@ class GardenGnome
   gnome2 = GardenGnome.new 
   gnome2.name = "James the Jerk"
   gnome2.age = 3421
-  puts gnome2  
+  puts gnome2.age   
   
