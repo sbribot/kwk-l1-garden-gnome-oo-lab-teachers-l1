@@ -30,6 +30,7 @@ class GardenGnome
   
   end 
   
-  gnome1 = GardenGnome.new("Walter the Worst")
-  puts gnome1.name 
+  gnome1 = GardenGnome.new
+  
+  puts gnome1
   
